@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **Glamera**
 
-- 👨‍💻 All of my projects are available at [https://github.com/essameldeen](https://github.com/essameldeen)
-
 - 📫 How to reach me **esammohamed17121996@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/essam-mohamed-7ba175120/](https://www.linkedin.com/in/essam-mohamed-7ba175120/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/essam-mohamed-7ba175120/](https://www.linkedin.com/in/essam-mohamed-7ba175120/)](https://www.linkedin.com/in/essam-mohamed-7ba175120/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
