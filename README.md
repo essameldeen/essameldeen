@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Aspire IT services**
-- 
+- 🔭 I’m currently working on **Misr Digital Innovation (MDI)**
+  
 - 📫 How to reach me **esammohamed17121996@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q4Yxv4C07h19FI2t92UUK7pqNNtg6_OO/view?usp=sharing](https://drive.google.com/file/d/1Q4Yxv4C07h19FI2t92UUK7pqNNtg6_OO/view?usp=sharing)
